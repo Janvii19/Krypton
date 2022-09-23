@@ -19,13 +19,12 @@ import { initializeApp } from "firebase/app";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAV8WLaRX5zIubGVNw0H0N7jE5iJsAqJ9Q",
-  authDomain: "krypton-hacknpitch.firebaseapp.com",
-  projectId: "krypton-hacknpitch",
-  storageBucket: "krypton-hacknpitch.appspot.com",
-  messagingSenderId: "958493137812",
-  appId: "1:958493137812:web:4217947ba53cf61e2d4d81",
-  measurementId: "G-09LC981X4H"
+  apiKey: "AIzaSyD7jnEvRLlogpRiQCjzXodTAkMQY4FAXgM",
+  authDomain: "dsn1023-7c683.firebaseapp.com",
+  projectId: "dsn1023-7c683",
+  storageBucket: "dsn1023-7c683.appspot.com",
+  messagingSenderId: "545382973821",
+  appId: "1:545382973821:web:ad3f364e310251fc754c14"
 };
 
 // Initialize Firebase
